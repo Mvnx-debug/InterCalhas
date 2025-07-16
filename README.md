@@ -47,7 +47,7 @@ Criar uma presença online para a Inter Calhas, com informações de contato ace
 ## 👨‍💻 Desenvolvido por
 
 Marcos V. Nalin.  
-[[Seu LinkedIn ou GitHub aqui](https://github.com/Mvnx-debug/)]
+(https://github.com/Mvnx-debug/)
 
 
 
