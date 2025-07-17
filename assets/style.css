@@ -67,7 +67,7 @@ a {
 
 .navbar-brand {
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.1rem;
   color: white !important;
 }
 
@@ -656,7 +656,7 @@ a {
 
 /* Footer */
 footer {
-  background-color: var(--dark-color);
+  background-color: rgba(26, 53, 94, 0.9) !important;
   color: white;
   padding: 3rem 0;
 }
